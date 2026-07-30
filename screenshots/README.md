@@ -15,16 +15,16 @@
 
 ## Songs Released Each Year
 
-![Release Trends](Screenshot%2026-07-31%003221.png)
+![Release Trends](Screenshot%202026-07-31%20003221.png)
 
 ---
 
 ## Explicit vs Non-Explicit Songs
 
-![Explicit Songs](Screenshot%2026-07-31%003255.png)
+![Explicit Songs](Screenshot%202026-07-31%20003255.png)
 
 ---
 
 ## Dataset Summary
 
-![Dataset Summary](Screenshot%2026-07-31%003320.png)
+![Dataset Summary](Screenshot%202026-07-31%20003320.png)
