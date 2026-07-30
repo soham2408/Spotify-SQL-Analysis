@@ -4,7 +4,7 @@
 
 ## Top 10 Most Popular Songs
 
-![Top Songs](Screenshot 2026-07-31 003058.png)
+![Top Songs](screenshots/Screenshot%202026-07-31%20003058.png)
 
 ---
 
