@@ -9,7 +9,7 @@
 ---
 
 ## Average Danceability & Energy by Year
-![Top Danceability & Enegry ](Screenshot%2026-07-31%003347.png)
+![Top Danceability & Enegry ](Screenshot%202026-07-31%003347.png)
 
 ---
 
